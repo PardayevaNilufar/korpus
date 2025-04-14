@@ -29,6 +29,7 @@ print(len(bitta))
 
 
 
+
 # for x in royxat:
 #     if x not in stop_sozlar:
 #         stop_sozlarsiz_matn.append(x)
